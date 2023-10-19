@@ -1,6 +1,6 @@
 # Hello-World-In-50-Programming-Langauges
-I got the code from ChatGPT during class. I was bored
-<br>Feel free to correct this code
+I got the code from ChatGPT while I was bored
+<br>Feel free to correct this code if you find any errors
 <br>Current Languages: 
 - ABAP
 - Ada
